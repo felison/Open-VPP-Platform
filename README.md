@@ -13,7 +13,7 @@ Flow of VPP value creation:
   - 5 Fulfillment and settlement of contract
 
 That principal flow structure should then be reflected in:
-- the layout of the cripts or (quasi) smart contracts.
+- the layout of the scripts or (quasi) smart contracts.
 - the layout of the runtime, flow and software modules that process the contracts.
 - the layout of the dashboard control- and visualisation elements.
 
