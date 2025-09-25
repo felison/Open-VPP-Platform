@@ -23,4 +23,4 @@ And follow the money.
 In that respect this tiny experimental demo may stand as a reference model.
 
 # Installation 
-You can download the files flow <time>.json and import them in Node-RED
+You can download the files flow.xxxx.json and import them in Node-RED
